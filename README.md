@@ -1,5 +1,15 @@
-# 💫 About Me:
- 🎓 B.E. Computer Science Graduate<br>📊 Aspiring Data Analyst passionate about turning data into actionable insights<br>💻 Skilled in SQL, Power BI, Excel, Python, and Data Visualization<br>📈 Currently building real-world analytics projects and expanding my GenAI knowledge<br>🌱 Always learning, exploring, and growing in the field of data and technology<br>
+# 💫 About Me
+🎓 B.E. Computer Science & Engineering (2025) — Sathyabama Institute of Science & Technology<br>
+📊 Entry-Level Data Analyst — SQL · Power BI · Excel · Python<br>
+🚀 Currently: Crio.Do Fellowship in Applied Data Science with GenAI (in progress)<br>
+📍 Hyderabad, India · Open to Data Analyst / BI Analyst roles
+
+## 📌 Featured Projects
+- **[E-commerce Customer Intelligence Dashboard](https://github.com/Harshi1215/Ecommerce-Customer-Intelligence)** — MySQL, SQL & Power BI analysis of 100K+ orders; found credit cards drive the most revenue.
+- **[NexDrop Delivery Trust Analysis](https://github.com/Harshi1215/nexdrop-delivery-trust-intelligence)** — Python, SQL & Power BI case study on a fictional delivery platform (synthetic data): ETA reliability and customer trust.
+- **[Brain Tumor Detection](https://github.com/Harshi1215/BRAIN-TUMORS-)** — Academic team project comparing RF, SVM, YOLOv5 and U-Net on MRI images.
+- **[Resume](https://github.com/Harshi1215/Harshitha_Uppalapati_Resume)** — One-page Data Analyst resume.
+
 
 
 ## 🌐 Socials:
